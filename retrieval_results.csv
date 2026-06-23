@@ -1,0 +1,6 @@
+question,gold_pages,Recall@3,Precision@3,Recall@5,Precision@5,Recall@10,Precision@10,MRR,nDCG@10
+What is the purpose of irrigation in root canal treatment?,944|945,1.0,0.6666666666666666,1.0,0.6,1.0,0.3,1.0,2.0616063116448506
+When is calcium hydroxide used as an intracanal medicament?,74|945,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+What is the role of sodium hypochlorite in endodontics?,74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Why is EDTA used during root canal treatment?,944,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+What is the smear layer and why is it removed?,930,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

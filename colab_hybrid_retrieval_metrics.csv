@@ -1,0 +1,6 @@
+question,gold_pages,retrieved_pages,precision_at_5,recall_at_5,mrr,ndcg_at_5
+What is the main purpose of EDTA in endodontics?,"[967, 968, 1087, 1456, 2346]","[1456, 1457, 985, 1087, 1603]",0.4,1.0,1.0,1.4306765580733931
+What are the primary objectives of using Sodium Hypochlorite (NaOCl)?,"[950, 953, 956, 1628, 2189]","[956, 3110, 2198, 952, 2832]",0.2,1.0,1.0,1.0
+What are the clinical signs of irreversible pulpitis?,"[252, 1845, 2369, 2371, 2864]","[2369, 252, 1846, 1845, 2371]",0.8,1.0,1.0,2.4484591188793923
+How should a clinician manage a separated instrument in the root canal?,"[140, 2430, 2434, 2448, 2454]","[1290, 1291, 2454, 2431, 2428]",0.2,1.0,0.3333333333333333,0.5
+Explain the importance of working length determination in endodontics.,"[1120, 1151, 1249, 2426, 3451]","[1249, 3245, 924, 29, 259]",0.2,1.0,1.0,1.0

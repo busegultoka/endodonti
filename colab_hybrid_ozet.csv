@@ -1,0 +1,2 @@
+Embedding_Model,Base_Model,Mean_Keyword_Hit_Rate,Mean_TFIDF_Cosine,Mean_Semantic_Cosine,Mean_Precision_at_5,Mean_Recall_at_5,Mean_MRR,Mean_NDCG_at_5
+BAAI/bge-large-en-v1.5,mistralai/Mistral-7B-Instruct-v0.2,0.2332,0.1588,0.7392,0.36,1.0,0.8666666666666668,1.275827135390557

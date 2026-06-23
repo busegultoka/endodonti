@@ -1,0 +1,2 @@
+Embedding_Model,Base_Model,Mean_Keyword_Hit_Rate,Mean_TFIDF_Cosine,Mean_Semantic_Cosine,Mean_Precision_at_5,Mean_Recall_at_5,Mean_MRR,Mean_NDCG_at_5
+MultiQA,google/flan-t5-base (RAG Only),0.4386,0.2024,0.771,0.236,0.72,0.5663,0.8484

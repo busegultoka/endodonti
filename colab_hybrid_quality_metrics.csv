@@ -1,0 +1,6 @@
+Soru_No,Keyword_Hit_Rate,Bulunan,Eksik,TFIDF_Cosine,Semantic_Cosine
+1,0.25,"edta, dentin, canal","smear, layer, demineralize, chelating, inorganic, calcium, residual, obturating, removing",0.168,0.803
+2,0.333,"naocl, hypochlorite, tissue, sodium","disinfect, dissolution, antimicrobial, organic, irrigat, soft, debris, calcified",0.071,0.721
+3,0.25,"irreversible, pulpitis, pulp","pain, thermal, lingering, spontaneous, cold, stimulus, endodontic, sensation, intensif",0.066,0.772
+4,0.0,,"separated, instrument, bypass, ultrasonic, retrieval, file, fragment, removal, canal, mechanic, technique",0.133,0.579
+5,0.333,"working, length, root, crucial","cleaning, shaping, canal, system, apical, overextent, fracture, underprepared",0.356,0.821
