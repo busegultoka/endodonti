@@ -1,0 +1,6 @@
+Soru_No,Soru,Keyword_Hit_Rate,Bulunan_Anahtar_Kelimeler,Eksik_Anahtar_Kelimeler
+1,What is the purpose of irrigation in root canal treatment?,0.125,debris,"irrigation, lubricate, organic, inorganic, smear layer, biofilm, disinfection"
+2,When is calcium hydroxide used as an intracanal medicament?,0.125,intracanal,"calcium hydroxide, medicament, appointment, bacterial, regrowth, disinfection, barrier"
+3,What is the role of sodium hypochlorite in endodontics?,0.0,,"sodium hypochlorite, naocl, irrigant, antimicrobial, disinfection, organic tissue, dissolution"
+4,Why is EDTA used during root canal treatment?,0.14285714285714285,edta,"chelating, smear layer, demineralization, dentinal tubules, inorganic, penetration"
+5,What is the smear layer and why is it removed?,0.125,smear layer,"organic, inorganic, debris, bacteria, sealer, penetration, disinfection"
